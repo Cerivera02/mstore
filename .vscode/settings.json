@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "database",
+            "database": "database.db"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
